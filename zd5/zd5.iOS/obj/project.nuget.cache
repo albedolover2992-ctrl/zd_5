@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IoXj/eXrkzQ67uHy2c42ZZ1q9a2n8o4xjL9VkkueT55g9sKWFAx9f5p4uACA3lCGcweh4QDE78e1RksvFp3/Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tanus\\Downloads\\zd5_2\\zd5\\zd5.iOS\\zd5.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tanus\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\tanus\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
