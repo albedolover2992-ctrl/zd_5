@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|c:\\users\\anatolyi\\downloads\\zd5\\zd5\\zd5\\zd5\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|solutionrelative:zd5\\zd5\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|c:\\users\\anatolyi\\downloads\\zd5\\zd5\\zd5\\zd5\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|solutionrelative:zd5\\zd5\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|c:\\users\\anatolyi\\downloads\\zd5\\zd5\\zd5\\zd5\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|solutionrelative:zd5\\zd5\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|c:\\users\\anatolyi\\downloads\\zd5\\zd5\\zd5\\zd5\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|solutionrelative:zd5\\zd5\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|c:\\users\\anatolyi\\downloads\\zd5\\zd5\\zd5\\zd5\\welcome.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|solutionrelative:zd5\\zd5\\welcome.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|c:\\users\\anatolyi\\downloads\\zd5\\zd5\\zd5\\zd5\\settings.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|solutionrelative:zd5\\zd5\\settings.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|c:\\users\\anatolyi\\downloads\\zd5\\zd5\\zd5\\zd5\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|solutionrelative:zd5\\zd5\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|c:\\users\\anatolyi\\downloads\\zd5\\zd5\\zd5\\zd5\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|solutionrelative:zd5\\zd5\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|c:\\users\\anatolyi\\downloads\\zd5\\zd5\\zd5\\zd5\\log1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|solutionrelative:zd5\\zd5\\log1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|c:\\users\\anatolyi\\downloads\\zd5\\zd5\\zd5\\zd5\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|solutionrelative:zd5\\zd5\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|c:\\users\\anatolyi\\downloads\\zd5\\zd5\\zd5\\zd5\\zd5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{094236EC-E59B-4707-8DBF-E44D3378A8DB}|zd5\\zd5\\zd5.csproj|solutionrelative:zd5\\zd5\\zd5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\App.xaml.cs",
+              "RelativeDocumentMoniker": "zd5\\zd5\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\App.xaml.cs",
+              "RelativeToolTip": "zd5\\zd5\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T13:09:03.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\App.xaml",
+              "RelativeDocumentMoniker": "zd5\\zd5\\App.xaml",
+              "ToolTip": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\App.xaml",
+              "RelativeToolTip": "zd5\\zd5\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-27T13:08:58.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\Login.xaml",
+              "RelativeDocumentMoniker": "zd5\\zd5\\Login.xaml",
+              "ToolTip": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\Login.xaml",
+              "RelativeToolTip": "zd5\\zd5\\Login.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-27T13:06:04.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "log1.css",
+              "DocumentMoniker": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\log1.css",
+              "RelativeDocumentMoniker": "zd5\\zd5\\log1.css",
+              "ToolTip": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\log1.css",
+              "RelativeToolTip": "zd5\\zd5\\log1.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-27T13:05:11.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\Page2.xaml",
+              "RelativeDocumentMoniker": "zd5\\zd5\\Page2.xaml",
+              "ToolTip": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\Page2.xaml",
+              "RelativeToolTip": "zd5\\zd5\\Page2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-27T13:03:29.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.xaml",
+              "DocumentMoniker": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\Welcome.xaml",
+              "RelativeDocumentMoniker": "zd5\\zd5\\Welcome.xaml",
+              "ToolTip": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\Welcome.xaml",
+              "RelativeToolTip": "zd5\\zd5\\Welcome.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-27T13:01:11.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.xaml",
+              "DocumentMoniker": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\Settings.xaml",
+              "RelativeDocumentMoniker": "zd5\\zd5\\Settings.xaml",
+              "ToolTip": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\Settings.xaml",
+              "RelativeToolTip": "zd5\\zd5\\Settings.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-27T13:01:00.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\Page1.xaml",
+              "RelativeDocumentMoniker": "zd5\\zd5\\Page1.xaml",
+              "ToolTip": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\Page1.xaml",
+              "RelativeToolTip": "zd5\\zd5\\Page1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-27T13:00:53.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\Settings.xaml.cs",
+              "RelativeDocumentMoniker": "zd5\\zd5\\Settings.xaml.cs",
+              "ToolTip": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\Settings.xaml.cs",
+              "RelativeToolTip": "zd5\\zd5\\Settings.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T13:00:32.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\MainPage.xaml",
+              "RelativeDocumentMoniker": "zd5\\zd5\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\MainPage.xaml",
+              "RelativeToolTip": "zd5\\zd5\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-27T12:56:54.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "zd5",
+              "DocumentMoniker": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\zd5.csproj",
+              "RelativeDocumentMoniker": "zd5\\zd5\\zd5.csproj",
+              "ToolTip": "C:\\Users\\anatolyi\\Downloads\\zd5\\zd5\\zd5\\zd5\\zd5.csproj",
+              "RelativeToolTip": "zd5\\zd5\\zd5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-27T12:56:34.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
